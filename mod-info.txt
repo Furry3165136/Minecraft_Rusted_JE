@@ -1,0 +1,6 @@
+[mod]
+thumbnail:icon.png
+title:Minecraft_Rusted_JE
+description:该模组仅供参考，请支持正版，(由于RD-160052版本的地形相对比较复杂，部分设备可能会出现卡顿现象，该问题属于正常现象，请见谅)
+tags:units,maps
+version:c0.0.11a

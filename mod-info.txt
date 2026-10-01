@@ -1,0 +1,7 @@
+[mod]
+thumbnail:icon.png
+title:Minecraft_Rusted_JE
+minVersion:v1.15
+description:该模组仅供参考，请支持正版，\n (由于RD-160052版本的地形相对比较复杂加上c0.0.12a流体方块，大部分设备可能会出现严重卡顿现象，该问题属于正常现象，请见谅，c0.0.12a_01补丁版本已经把流体方块优化了)\n version: c0.0.14a_pre2
+tags:units,maps
+version:c0.0.14a_pre2
